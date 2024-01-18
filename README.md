@@ -56,11 +56,11 @@ By the conclusion of this course, students will be able to:
 | 7    | Shellcode (Ch 5)                                    |
 | 8    | Shellcode, ctd.                                     |
 | 9    | Second Exam, Countermeasures (Ch 6)                 |
-| 10   | Countermeasures, ctd.                               |
-| 11   | Cryptography/Cryptology (Ch 7)                      |
-| 12   | Crypto, ctd.                                        |
+| 10   | **Spring Break**                                    |
+| 11   | Countermeasures, ctd.                               |
+| 12   | Cryptography/Cryptology (Ch 7)                      |
 | 13   | Crypto, ctd.                                        |
-| 14   | Spring Break                                        |
+| 14   | Crypto, ctd.                                        |
 | 15   | Case Studies in Hacking                             |
 | 16   | Case Study, Final Exam                              |
 
