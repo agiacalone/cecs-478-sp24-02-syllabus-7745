@@ -1,12 +1,12 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (5185)
+## CECS 478: Section 2 (7745)
 
-### Fall 2023
+### Spring 2024
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-308 |
+| Mon Wed       | 11:00 AM - 12:15 PM | ECS-302 |
 
 | Instructor        | Email                       | Office  | Office Hours               |
 |-------------------|-----------------------------|---------|----------------------------|
@@ -45,24 +45,24 @@ By the conclusion of this course, students will be able to:
 
 ### Tentative Class Schedule
 
-|  Week      | Subject                                             |
-|------------|-----------------------------------------------------|
-| Aug 21     | Introduction to Computer Security and Hacking (Ch 1)|
-| Aug 28     | Programming for Hackers (Ch 2)                      |
-| Sep  4     | Exploitation (Ch 3)                                 |
-| Sep 11     | Exploitation, ctd.                                  |
-| Sep 18     | First exam, Networking (Ch 4)                       |
-| Sep 25     | Networking, ctd.                                    |
-| Oct  2     | Shellcode (Ch 5)                                    |
-| Oct  9     | Shellcode, ctd.                                     |
-| Oct 16     | Second Exam, Countermeasures (Ch 6)                 |
-| Oct 23     | Countermeasures, ctd.                               |
-| Oct 30     | Cryptography/Cryptology (Ch 7)                      |
-| Nov  6     | Crypto, ctd.                                        |
-| Nov 13     | Crypto, ctd.                                        |
-| Nov 20     | Fall Break                                          |
-| Nov 27     | Case Studies in Hacking                             |
-| Dec 4-11   | Case Study, Final Exam                              |
+| Week | Subject                                             |
+|------|-----------------------------------------------------|
+| 1    | Introduction to Computer Security and Hacking (Ch 1)|
+| 2    | Programming for Hackers (Ch 2)                      |
+| 3    | Exploitation (Ch 3)                                 |
+| 4    | Exploitation, ctd.                                  |
+| 5    | First exam, Networking (Ch 4)                       |
+| 6    | Networking, ctd.                                    |
+| 7    | Shellcode (Ch 5)                                    |
+| 8    | Shellcode, ctd.                                     |
+| 9    | Second Exam, Countermeasures (Ch 6)                 |
+| 10   | Countermeasures, ctd.                               |
+| 11   | Cryptography/Cryptology (Ch 7)                      |
+| 12   | Crypto, ctd.                                        |
+| 13   | Crypto, ctd.                                        |
+| 14   | Spring Break                                        |
+| 15   | Case Studies in Hacking                             |
+| 16   | Case Study, Final Exam                              |
 
 ### Exams
 
